@@ -1,7 +1,5 @@
 # Guía de Contribución
 
-¡Gracias por tu interés en contribuir! Esta guía te explicará cómo contribuir usando un fork (bifurcación).
-
 ## Flujo de Trabajo
 
 Para contribuir, necesitas:
@@ -146,4 +144,3 @@ git push origin tu-rama
 **Recuerda:** 
 - Trabaja siempre en tu fork, no en el repositorio original
 - Mantén tu fork sincronizado antes de crear nuevas ramas
-- ¡Nunca compartas tu Personal Access Token!
